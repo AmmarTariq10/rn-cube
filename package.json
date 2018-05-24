@@ -1,0 +1,59 @@
+{
+  "_from": "react-native-3dcube-navigation@^1.0.3",
+  "_id": "react-native-3dcube-navigation@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-j7TGWLJLPpe7hGoCXjGBF7ZMnK8M1s/UKPIBqAIQ8O3/GhT5Sq59sf6EL6yOIBpzPZTskcOEZcUaOYaZ29y49Q==",
+  "_location": "/react-native-3dcube-navigation",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-3dcube-navigation@^1.0.3",
+    "name": "react-native-3dcube-navigation",
+    "escapedName": "react-native-3dcube-navigation",
+    "rawSpec": "^1.0.3",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.3"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-3dcube-navigation/-/react-native-3dcube-navigation-1.0.3.tgz",
+  "_shasum": "f2b89b746b8058510fea959828b8f7a0b413acdb",
+  "_spec": "react-native-3dcube-navigation@^1.0.3",
+  "_where": "D:\\react projects\\G7",
+  "author": {
+    "name": "Zeh Fernandes"
+  },
+  "bugs": {
+    "url": "https://github.com/zehfernandes/react-native-3dcube-navigation/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "react": "^16.2.0"
+  },
+  "deprecated": false,
+  "description": "3D cube navigation JS",
+  "files": [
+    "src"
+  ],
+  "homepage": "https://github.com/zehfernandes/react-native-3dcube-navigation#readme",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-3dcube-navigation",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zehfernandes/react-native-3dcube-navigation.git"
+  },
+  "scripts": {
+    "start": "react-native start"
+  },
+  "version": "1.0.3"
+}
